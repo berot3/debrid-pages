@@ -3,25 +3,5 @@
     "version": "current",
     "title": "current",
     "aliases": []
-  },
-  {
-    "version": "dev",
-    "title": "dev",
-    "aliases": []
-  },
-  {
-    "version": "2025-Q4.3",
-    "title": "2025-Q4.3",
-    "aliases": []
-  },
-  {
-    "version": "2025-Q4.2",
-    "title": "2025-Q4.2",
-    "aliases": []
-  },
-  {
-    "version": "2025-Q4",
-    "title": "2025-Q4",
-    "aliases": []
   }
 ]
